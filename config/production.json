@@ -1,6 +1,6 @@
 {
-    "port": 5000,
+    "port": 80,
     "jwtSecret": "ololo-666",
-    "baseUrl": "http://localhost:5000",
+    "baseUrl": "http://linkshortener.ru",
     "mongoUri": "mongodb+srv://alaev89:1234qwe@cluster0-7h0u9.azure.mongodb.net/app?retryWrites=true&w=majority"
 }
